@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -27,7 +27,7 @@ redirect_from:
 
 ### 2021-2022: Data Development Engineer
 - **Organization:** Shuhe Technology Company
-- **Duties Included:** Feature Template System, Auto AB Testing Platform
+- **Project:** Feature Template System, Auto AB Testing Platform
 
 ### Spring 2021: Algorithm Intern
 - **Organization:** ADA Health

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ying Xu (Fiona)'s Homepage"
+# title: "Ying Xu (Fiona)'s Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
+Welcome! I'm Fiona Xu 👋. Currently, I'm embracing the challenges and opportunities of my second year as a Master's student in Computer Science at Washington University in St. Louis. My academic journey is fueled by a passion for Graph Neural Networks (GNN) and Deep Reinforcement Learning (DRL). My practical experience includes a stint as a data science intern at RGA, where I honed my skills and contributed to meaningful projects. Dive into my world of innovation and learning!
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
