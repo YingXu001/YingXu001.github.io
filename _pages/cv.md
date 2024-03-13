@@ -9,51 +9,57 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+# Education
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- B.S. in Financial Engineering, 2021
+- M.S. in Computer Science, Washington University in St. Louis, expected 2024
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+# Work Experience
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### Summer 2024: Data Science Intern
+- **Organization:** Reinsurance Group of America (RGA)
+- **Project:** FAC Optimization
+- **Supervisor:** [Professor Jeffery Heaton](https://www.heatonresearch.com/)
+
+### Summer 2023: Research Assistant
+- **Organization:** Sinovation Ventures, Deecamp (Artificial Intelligence Training Camp)
+- **Project:** [MedAI Orthopedic Diagnostics](https://github.com/YingXu001/MedAI_Orthopedic_Diagnostics)
+
+### 2021-2022: Data Development Engineer
+- **Organization:** Shuhe Technology Company
+- **Duties Included:** Feature Template System, Auto AB Testing Platform
+
+### Spring 2021: Algorithm Intern
+- **Organization:** ADA Health
+- **Project:** Lesion Recognition, Drug Recommentation System
+
+# Conference Publications
+
+- [Submitted to UAI 2024] Michael Lanier, Ying Xu, Nathan Jacobs, Chongjie Zhang, Yevgeniy Vorobeychik. "Learning Interpretable Policies in Hindsight-Observable POMDPs through Partially Supervised Reinforcement Learning." [Link](https://arxiv.org/abs/2402.09290)
+- Ying Xu, Yuejia Gu, Jiangpan Wang. "The College Student Credit Evaluation Based on Characteristic Data[M]." In: Cyberspace Data and Intelligence, and Cyber-Living, Syndrome, and Health. Springer, Singapore, 2020: 116-130. [Link](https://link.springer.com/chapter/10.1007/978-981-33-4336-8_10)
+
+# Workshop Presentations
+
+- [Oral Presentation] Ying Xu, Michael Lanier, Anindya Sarkar, Yevgeniy Vorobeychik. "Attacks on Node Attributes in Graph Neural Networks," AAAI 2024 Workshop on "Artificial Intelligence for Cyber Security." [Link](https://arxiv.org/abs/2402.12426)
+
+# Journal Publications
+
+- Lufei Huang, Ying Xu, Xiaohui Pan, Tao Zhang. "Green Technology Collaboration Network Analysis of China’s Transportation Sector: A Patent-Based Analysis," Scientific Programming, vol. 2021, Article ID 9961071, 12 pages, 2021. [Link](https://www.hindawi.com/journals/sp/2021/9961071/)
+- Yuejia Gu, Ying Xu, Jiangpan Wang. "Analysis on The Design of College Students' Credit Score Based on the Background of Big Data [J]." Modern Business, 2020(18): 70-72. 
+- Zifeng Kou, Ying Xu, Sibo Yang. "The relationship between environmental pollution and FDI in Chinese provinces: Granger causality analysis perspective based on fixed effects panel data [J]." Journal of Shanghai Lixin University of Accounting and Finance, 2020, 32(03): 87-100.
+
+# Copyrights
+
+- Ying Xu, Jiangpan Wang. "Personal Credit Rating System." No. 2020SR0126760
+- Jiangpan Wang, Ying Xu. "Contribution Allocation Algorithm in the Case of Cooperation with Multi Person and Multi Organizations." No. 2020SR0103989
+
+# Teaching Assistant Positions
+
+- INFO 558 Applications of Deep Neural Networks (SP 2024, FL 2023) Instructor: [Professor Jeffery Heaton](https://www.heatonresearch.com/)
+- CSE 555T Adversarial AI (SP 2024) Instructor: [Professor Yevgeniy Vorobeychik](https://vorobeychik.com/)
+- CSE 514A Data Mining (FL 2023, SP 2023) Instructor: [Professor Cynthia Ma](https://engineering.wustl.edu/faculty/Cynthia-Ma.html)
+- CSE 412A Introduction to AI (FL 2023, FL 2022) Instructor: [Professor Athena Tabakhi](https://engineering.wustl.edu/faculty/Athena-Tabakhi.html)
+
+# Academic Service
+
+- Conference Reviewer: IEEE ISBI 2024
