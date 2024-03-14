@@ -12,7 +12,7 @@ redirect_from:
 # Education
 
 - M.S. in Computer Science, Washington University in St. Louis, expected 2024
-- B.S. in Financial Engineering, 2021
+- B.S. in Financial Engineering, Shanghai Lixin University of Accounting and Finance, 2021
 
 # Work Experience
 
@@ -32,6 +32,12 @@ redirect_from:
 ### Spring 2021: Algorithm Intern
 - **Organization:** ADA Health
 - **Project:** Lesion Recognition, Drug Recommentation System
+
+### 2019: Lead Research Assistant
+- **Organization:** New Jersey Institute of Technology
+- **Project:** Public Corporations Sharing System
+- **Supervisor:** [Professor Zhipeng Yan](https://www.saif.sjtu.edu.cn/faculty-research/faculty/yan-zhipeng)
+
 
 # Conference Publications
 
