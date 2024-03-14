@@ -11,8 +11,8 @@ redirect_from:
 
 # Education
 
-- B.S. in Financial Engineering, 2021
 - M.S. in Computer Science, Washington University in St. Louis, expected 2024
+- B.S. in Financial Engineering, 2021
 
 # Work Experience
 
