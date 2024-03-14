@@ -12,7 +12,7 @@ redirect_from:
 # Education
 
 - M.S. in Computer Science, Washington University in St. Louis, expected 2024
-- B.S. in Financial Engineering, Shanghai Lixin University of Accounting and Finance, 2021
+- B.Econ. in Financial Engineering, Shanghai Lixin University of Accounting and Finance, 2021
 
 # Work Experience
 
