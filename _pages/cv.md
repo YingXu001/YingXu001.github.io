@@ -36,12 +36,12 @@ redirect_from:
 
 # Work Experience
 
-### Summer 2024: Data Science Intern
+### Summer 2023: Data Science Intern
 - **Organization:** Reinsurance Group of America (RGA)
 - **Project:** FAC Optimization
 - **Supervisor:** [Professor Jeffery Heaton](https://www.heatonresearch.com/)
 
-### Summer 2023: Research Assistant
+### Summer 2022: Research Assistant
 - **Organization:** Sinovation Ventures, Deecamp (Artificial Intelligence Training Camp)
 - **Project:** [MedAI Orthopedic Diagnostics](https://github.com/YingXu001/MedAI_Orthopedic_Diagnostics)
 
