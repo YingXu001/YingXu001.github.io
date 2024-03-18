@@ -14,6 +14,26 @@ redirect_from:
 - M.S. in Computer Science, Washington University in St. Louis, expected 2024
 - B.Econ. in Financial Engineering, Shanghai Lixin University of Accounting and Finance, 2021
 
+# Conference Publications
+
+- [Submitted to UAI 2024] Michael Lanier, Ying Xu, Nathan Jacobs, Chongjie Zhang, Yevgeniy Vorobeychik. "Learning Interpretable Policies in Hindsight-Observable POMDPs through Partially Supervised Reinforcement Learning." [Link](https://arxiv.org/abs/2402.09290)
+- Ying Xu, Yuejia Gu, Jiangpan Wang. "The College Student Credit Evaluation Based on Characteristic Data[M]." In: Cyberspace Data and Intelligence, and Cyber-Living, Syndrome, and Health. Springer, Singapore, 2020: 116-130. [Link](https://link.springer.com/chapter/10.1007/978-981-33-4336-8_10)
+
+# Workshop Presentations
+
+- [Oral Presentation] Ying Xu, Michael Lanier, Anindya Sarkar, Yevgeniy Vorobeychik. "Attacks on Node Attributes in Graph Neural Networks," AAAI 2024 Workshop on "Artificial Intelligence for Cyber Security." [Link](https://arxiv.org/abs/2402.12426)
+
+# Journal Publications
+
+- Lufei Huang, Ying Xu, Xiaohui Pan, Tao Zhang. "Green Technology Collaboration Network Analysis of China’s Transportation Sector: A Patent-Based Analysis," Scientific Programming, vol. 2021, Article ID 9961071, 12 pages, 2021. [Link](https://www.hindawi.com/journals/sp/2021/9961071/)
+- Yuejia Gu, Ying Xu, Jiangpan Wang. "Analysis on The Design of College Students' Credit Score Based on the Background of Big Data [J]." Modern Business, 2020(18): 70-72. 
+- Zifeng Kou, Ying Xu, Sibo Yang. "The relationship between environmental pollution and FDI in Chinese provinces: Granger causality analysis perspective based on fixed effects panel data [J]." Journal of Shanghai Lixin University of Accounting and Finance, 2020, 32(03): 87-100.
+
+# Copyrights
+
+- Ying Xu, Jiangpan Wang. "Personal Credit Rating System." No. 2020SR0126760
+- Jiangpan Wang, Ying Xu. "Contribution Allocation Algorithm in the Case of Cooperation with Multi Person and Multi Organizations." No. 2020SR0103989
+
 # Work Experience
 
 ### Summer 2024: Data Science Intern
@@ -38,27 +58,6 @@ redirect_from:
 - **Project:** Public Corporations Sharing System
 - **Supervisor:** [Professor Zhipeng Yan](https://www.saif.sjtu.edu.cn/faculty-research/faculty/yan-zhipeng)
 
-
-# Conference Publications
-
-- [Submitted to UAI 2024] Michael Lanier, Ying Xu, Nathan Jacobs, Chongjie Zhang, Yevgeniy Vorobeychik. "Learning Interpretable Policies in Hindsight-Observable POMDPs through Partially Supervised Reinforcement Learning." [Link](https://arxiv.org/abs/2402.09290)
-- Ying Xu, Yuejia Gu, Jiangpan Wang. "The College Student Credit Evaluation Based on Characteristic Data[M]." In: Cyberspace Data and Intelligence, and Cyber-Living, Syndrome, and Health. Springer, Singapore, 2020: 116-130. [Link](https://link.springer.com/chapter/10.1007/978-981-33-4336-8_10)
-
-# Workshop Presentations
-
-- [Oral Presentation] Ying Xu, Michael Lanier, Anindya Sarkar, Yevgeniy Vorobeychik. "Attacks on Node Attributes in Graph Neural Networks," AAAI 2024 Workshop on "Artificial Intelligence for Cyber Security." [Link](https://arxiv.org/abs/2402.12426)
-
-# Journal Publications
-
-- Lufei Huang, Ying Xu, Xiaohui Pan, Tao Zhang. "Green Technology Collaboration Network Analysis of China’s Transportation Sector: A Patent-Based Analysis," Scientific Programming, vol. 2021, Article ID 9961071, 12 pages, 2021. [Link](https://www.hindawi.com/journals/sp/2021/9961071/)
-- Yuejia Gu, Ying Xu, Jiangpan Wang. "Analysis on The Design of College Students' Credit Score Based on the Background of Big Data [J]." Modern Business, 2020(18): 70-72. 
-- Zifeng Kou, Ying Xu, Sibo Yang. "The relationship between environmental pollution and FDI in Chinese provinces: Granger causality analysis perspective based on fixed effects panel data [J]." Journal of Shanghai Lixin University of Accounting and Finance, 2020, 32(03): 87-100.
-
-# Copyrights
-
-- Ying Xu, Jiangpan Wang. "Personal Credit Rating System." No. 2020SR0126760
-- Jiangpan Wang, Ying Xu. "Contribution Allocation Algorithm in the Case of Cooperation with Multi Person and Multi Organizations." No. 2020SR0103989
-
 # Teaching Assistant Positions
 
 - INFO 558 Applications of Deep Neural Networks (SP 2024, FL 2023) Instructor: [Professor Jeffery Heaton](https://www.heatonresearch.com/)
@@ -68,4 +67,4 @@ redirect_from:
 
 # Academic Service
 
-- Conference Reviewer: IEEE ISBI 2024
+- Conference Reviewer: [IEEE ISBI 2024](https://biomedicalimaging.org/2024/)
