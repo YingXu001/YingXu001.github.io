@@ -58,7 +58,7 @@ redirect_from:
 - **Project:** Public Corporations Sharing System
 - **Supervisor:** [Professor Zhipeng Yan](https://www.saif.sjtu.edu.cn/faculty-research/faculty/yan-zhipeng)
 
-# Teaching Assistant Positions
+# Teaching Assistant
 
 - INFO 558 Applications of Deep Neural Networks (SP 2024, FL 2023) Instructor: [Professor Jeffery Heaton](https://www.heatonresearch.com/)
 - CSE 555T Adversarial AI (SP 2024) Instructor: [Professor Yevgeniy Vorobeychik](https://vorobeychik.com/)
@@ -67,4 +67,4 @@ redirect_from:
 
 # Academic Service
 
-- Conference Reviewer: [IEEE ISBI 2024](https://biomedicalimaging.org/2024/)
+- Conference Reviewer: [IEEE ISBI'24](https://biomedicalimaging.org/2024/)
