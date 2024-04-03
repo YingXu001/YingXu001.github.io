@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# About me
+<!-- # About me -->
 
 Welcome! I'm Fiona Xu 👋. I'm currently navigating the challenges and seizing the opportunities of my second year as a Master's student in Computer Science at Washington University in St. Louis. My academic endeavors are driven by a keen interest in Graph Neural Networks (GNN) and Deep Reinforcement Learning (DRL). Beyond academia, I've enriched my practical experience through roles as a data science intern at RGA and a full-time Data Development Engineer at Shuhe, where I've sharpened my skills and contributed to impactful projects. I'm always open to collaboration and networking opportunities. Feel free to get in touch!
 
