@@ -14,9 +14,12 @@ redirect_from:
 - M.S. in Computer Science, Washington University in St. Louis, expected 2024
 - B.Econ. in Financial Engineering, Shanghai Lixin University of Accounting and Finance, 2021
 
-# Conference Publications
+# Preprint
 
 - [Submitted to UAI 2024] Michael Lanier, Ying Xu, Nathan Jacobs, Chongjie Zhang, Yevgeniy Vorobeychik. "Learning Interpretable Policies in Hindsight-Observable POMDPs through Partially Supervised Reinforcement Learning." [Link](https://arxiv.org/abs/2402.09290)
+
+# Conference Publications
+
 - Ying Xu, Yuejia Gu, Jiangpan Wang. "The College Student Credit Evaluation Based on Characteristic Data[M]." In: Cyberspace Data and Intelligence, and Cyber-Living, Syndrome, and Health. Springer, Singapore, 2020: 116-130. [Link](https://link.springer.com/chapter/10.1007/978-981-33-4336-8_10)
 
 # Workshop Presentations
