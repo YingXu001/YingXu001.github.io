@@ -37,7 +37,7 @@ redirect_from:
 - Ying Xu, Jiangpan Wang. "Personal Credit Rating System." No. 2020SR0126760
 - Jiangpan Wang, Ying Xu. "Contribution Allocation Algorithm in the Case of Cooperation with Multi Person and Multi Organizations." No. 2020SR0103989
 
-# Work Experience
+# Working Experience
 
 ### Summer 2023: Data Science Intern
 - **Organization:** Reinsurance Group of America (RGA)
