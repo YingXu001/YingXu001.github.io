@@ -29,7 +29,6 @@ redirect_from:
 # Journal Publications
 
 - Lufei Huang, Ying Xu, Xiaohui Pan, Tao Zhang. "Green Technology Collaboration Network Analysis of China’s Transportation Sector: A Patent-Based Analysis," Scientific Programming, vol. 2021, Article ID 9961071, 12 pages, 2021. [Link](https://www.hindawi.com/journals/sp/2021/9961071/)
-- Yuejia Gu, Ying Xu, Jiangpan Wang. "Analysis on The Design of College Students' Credit Score Based on the Background of Big Data [J]." Modern Business, 2020(18): 70-72. 
 - Zifeng Kou, Ying Xu, Sibo Yang. "The relationship between environmental pollution and FDI in Chinese provinces: Granger causality analysis perspective based on fixed effects panel data [J]." Journal of Shanghai Lixin University of Accounting and Finance, 2020, 32(03): 87-100.
 
 # Copyrights
