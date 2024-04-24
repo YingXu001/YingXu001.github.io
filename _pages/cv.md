@@ -15,26 +15,26 @@ redirect_from:
 - B.Econ. in Financial Engineering, Shanghai Lixin University of Accounting and Finance, 2021
 
 # Preprint
-- Qingyang Wu*, Ying Xu*, Tingsong Xiao, Yunze Xiao, Yitong Li, Tianyang Wang, Yichi Zhang, Shanghai Zhong, Yuwei Zhang, Wei Lu, Yifan Yang. "Surveying Attitudinal Alignment Between Large Language Models Vs. Humans Towards 17 Sustainable Development Goals." [Link](https://arxiv.org/abs/2404.13885v1)
-- [Submitted to UAI 2024] Michael Lanier, Ying Xu, Nathan Jacobs, Chongjie Zhang, Yevgeniy Vorobeychik. "Learning Interpretable Policies in Hindsight-Observable POMDPs through Partially Supervised Reinforcement Learning." [Link](https://arxiv.org/abs/2402.09290)
+- Qingyang Wu\*, **Ying Xu**\*, Tingsong Xiao, Yunze Xiao, Yitong Li, Tianyang Wang, Yichi Zhang, Shanghai Zhong, Yuwei Zhang, Wei Lu, Yifan Yang. "Surveying Attitudinal Alignment Between Large Language Models Vs. Humans Towards 17 Sustainable Development Goals." [Link](https://arxiv.org/abs/2404.13885v1)
+- [Submitted to UAI 2024] Michael Lanier, **Ying Xu**, Nathan Jacobs, Chongjie Zhang, Yevgeniy Vorobeychik. "Learning Interpretable Policies in Hindsight-Observable POMDPs through Partially Supervised Reinforcement Learning." [Link](https://arxiv.org/abs/2402.09290)
 
 # Conference Publications
 
-- Ying Xu, Yuejia Gu, Jiangpan Wang. "The College Student Credit Evaluation Based on Characteristic Data[M]." In: Cyberspace Data and Intelligence, and Cyber-Living, Syndrome, and Health. Springer, Singapore, 2020: 116-130. [Link](https://link.springer.com/chapter/10.1007/978-981-33-4336-8_10)
+- **Ying Xu**, Yuejia Gu, Jiangpan Wang. "The College Student Credit Evaluation Based on Characteristic Data[M]." In: Cyberspace Data and Intelligence, and Cyber-Living, Syndrome, and Health. Springer, Singapore, 2020: 116-130. [Link](https://link.springer.com/chapter/10.1007/978-981-33-4336-8_10)
 
 # Workshop Presentations
 
-- [Oral Presentation] Ying Xu, Michael Lanier, Anindya Sarkar, Yevgeniy Vorobeychik. "Attacks on Node Attributes in Graph Neural Networks," AAAI 2024 Workshop on "Artificial Intelligence for Cyber Security." [Link](https://arxiv.org/abs/2402.12426)
+- [Oral Presentation] **Ying Xu**, Michael Lanier, Anindya Sarkar, Yevgeniy Vorobeychik. "Attacks on Node Attributes in Graph Neural Networks," AAAI 2024 Workshop on "Artificial Intelligence for Cyber Security." [Link](https://arxiv.org/abs/2402.12426)
 
 # Journal Publications
 
-- Lufei Huang, Ying Xu, Xiaohui Pan, Tao Zhang. "Green Technology Collaboration Network Analysis of China’s Transportation Sector: A Patent-Based Analysis," Scientific Programming, vol. 2021, Article ID 9961071, 12 pages, 2021. [Link](https://www.hindawi.com/journals/sp/2021/9961071/)
-- Zifeng Kou, Ying Xu, Sibo Yang. "The relationship between environmental pollution and FDI in Chinese provinces: Granger causality analysis perspective based on fixed effects panel data [J]." Journal of Shanghai Lixin University of Accounting and Finance, 2020, 32(03): 87-100.
+- Lufei Huang, **Ying Xu**, Xiaohui Pan, Tao Zhang. "Green Technology Collaboration Network Analysis of China’s Transportation Sector: A Patent-Based Analysis," Scientific Programming, vol. 2021, Article ID 9961071, 12 pages, 2021. [Link](https://www.hindawi.com/journals/sp/2021/9961071/)
+- Zifeng Kou, **Ying Xu**, Sibo Yang. "The relationship between environmental pollution and FDI in Chinese provinces: Granger causality analysis perspective based on fixed effects panel data [J]." Journal of Shanghai Lixin University of Accounting and Finance, 2020, 32(03): 87-100.
 
 # Copyrights
 
-- Ying Xu, Jiangpan Wang. "Personal Credit Rating System." No. 2020SR0126760
-- Jiangpan Wang, Ying Xu. "Contribution Allocation Algorithm in the Case of Cooperation with Multi Person and Multi Organizations." No. 2020SR0103989
+- **Ying Xu**, Jiangpan Wang. "Personal Credit Rating System." No. 2020SR0126760
+- Jiangpan Wang, **Ying Xu**. "Contribution Allocation Algorithm in the Case of Cooperation with Multi Person and Multi Organizations." No. 2020SR0103989
 
 # Working Experience
 
