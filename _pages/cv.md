@@ -24,7 +24,7 @@ redirect_from:
 
 # Workshop
 
-- [Oral Presentation] **Ying Xu**, Michael Lanier, Anindya Sarkar, Yevgeniy Vorobeychik. "Attacks on Node Attributes in Graph Neural Networks," AAAI 2024 Workshop on "Artificial Intelligence for Cyber Security." [Link](https://arxiv.org/abs/2402.12426)
+- [**Oral Presentation**] **Ying Xu**, Michael Lanier, Anindya Sarkar, Yevgeniy Vorobeychik. "Attacks on Node Attributes in Graph Neural Networks," AAAI 2024 Workshop on "Artificial Intelligence for Cyber Security." [Link](https://arxiv.org/abs/2402.12426)
 
 # Journal
 
