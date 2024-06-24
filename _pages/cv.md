@@ -38,6 +38,11 @@ redirect_from:
 
 # Working Experience
 
+### 2024-2025: Bioinformaticist
+- **Organization:** Washington University in St. Louis
+- **Supervisor:** [Professor Carlos Cruchaga](https://psychiatry.wustl.edu/people/carlos-cruchaga-phd/)
+
+
 ### Summer 2023: Data Science Intern
 - **Organization:** Reinsurance Group of America (RGA)
 - **Project:** FAC Optimization
