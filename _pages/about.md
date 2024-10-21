@@ -10,9 +10,30 @@ redirect_from:
 
 <!-- # About me -->
 
-Welcome! I'm Fiona Xu 👋. Having recently graduated with a Master's in Computer Science from Washington University in St. Louis, I'm now in the predoctoral stage, preparing to delve into PhD studies focused on AI for Medicine (AI4Med). Throughout my Master's program, my research primarily revolved around Graph Neural Networks (GNNs), Deep Reinforcement learning (DRL), and Trustworthy AI, establishing a robust foundation for my future academic endeavors. Beyond academia, my practical experience includes roles as a Data Science Intern at RGA and a Data Development Engineer at Shuhe, where I honed my skills and contributed to impactful projects. I am eager to collaborate and network with peers and professionals in the field. Feel free to reach out!
+# Fiona Xu 👋
 
-When I'm not immersed in the world of technology and innovation, I enjoy hiking and playing badminton.
+**Pre-doctoral Researcher at WashU Medical School | AI for Medicine Enthusiast**
+
+Hello! I'm Fiona Xu, currently in a pre-doctoral role at Washington University in St. Louis Medical School, working in [Professor Carlos Cruchaga's Lab](https://psychiatry.wustl.edu/people/carlos-cruchaga-phd/). I recently graduated with a Master's in Computer Science from WashU and am preparing for PhD studies focused on AI for Medicine (AI4Med).
+
+### 🔬 Research Interests
+- **AI for Med**
+- **Graph Neural Networks (GNNs)**
+- **Deep Reinforcement Learning (DRL)**
+- **Trustworthy AI**
+
+During my Master's, my research primarily revolved around GNNs, DRL, and Trustworthy AI, laying a strong foundation for future academic and research pursuits. Currently, I am exploring their interactions with medical applications.
+
+### 💼 Industry Experience
+- **Data Science Intern at RGA**: Gained hands-on experience with data-driven projects.
+- **Data Development Engineer at Shuhe**: Contributed to impactful projects and honed technical skills in data development.
+
+### 🌱 Outside of Tech
+When I’m not working on research or coding, I enjoy:
+- 🎮 Gaming
+- 🥾 Hiking
+- 🏸 Playing badminton
+
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).

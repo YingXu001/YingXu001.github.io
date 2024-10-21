@@ -15,11 +15,12 @@ redirect_from:
 - B.Econ. in Financial Engineering, Shanghai Lixin University of Accounting and Finance, 2021
 
 # Preprint
+
 - Qingyang Wu\*, **Ying Xu**\*, Tingsong Xiao, Yunze Xiao, Yitong Li, Tianyang Wang, Yichi Zhang, Shanghai Zhong, Yuwei Zhang, Wei Lu, Yifan Yang. "Surveying Attitudinal Alignment Between Large Language Models Vs. Humans Towards 17 Sustainable Development Goals." [Link](https://arxiv.org/abs/2404.13885v1)
-- Michael Lanier, **Ying Xu**, Nathan Jacobs, Chongjie Zhang, Yevgeniy Vorobeychik. "Learning Interpretable Policies in Hindsight-Observable POMDPs through Partially Supervised Reinforcement Learning." [Link](https://arxiv.org/abs/2402.09290)
 
 # Conference
 
+- **[Oral Presentation]** Michael Lanier, **Ying Xu**, Nathan Jacobs, Chongjie Zhang, Yevgeniy Vorobeychik. "Learning Interpretable Policies in Hindsight-Observable POMDPs through Partially Supervised Reinforcement Learning," ICMLA 2024. [Link](https://arxiv.org/abs/2402.09290)
 - **Ying Xu**, Yuejia Gu, Jiangpan Wang. "The College Student Credit Evaluation Based on Characteristic Data[M]." In: Cyberspace Data and Intelligence, and Cyber-Living, Syndrome, and Health. Springer, Singapore, 2020: 116-130. [Link](https://link.springer.com/chapter/10.1007/978-981-33-4336-8_10)
 
 # Workshop
@@ -45,7 +46,7 @@ redirect_from:
 ### Summer 2023: Data Science Intern
 - **Organization:** Reinsurance Group of America (RGA)
 - **Project:** FAC Optimization
-- **Supervisor:** [Professor Jeffery Heaton](https://www.heatonresearch.com/)
+- **Supervisor:** [Dr. Jeffery Heaton](https://www.heatonresearch.com/)
 
 ### Summer 2022: Research Assistant
 - **Organization:** Sinovation Ventures, Deecamp (Artificial Intelligence Training Camp)
