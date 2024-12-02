@@ -16,8 +16,6 @@ redirect_from:
 
 # Preprint
 
-- Qingyang Wu\*, **Ying Xu**\*, Tingsong Xiao, Yunze Xiao, Yitong Li, Tianyang Wang, Yichi Zhang, Shanghai Zhong, Yuwei Zhang, Wei Lu, Yifan Yang. "Surveying Attitudinal Alignment Between Large Language Models Vs. Humans Towards 17 Sustainable Development Goals." [Link](https://arxiv.org/abs/2404.13885v1)
-
 # Conference
 
 - **[Oral Presentation]** Michael Lanier, **Ying Xu**, Nathan Jacobs, Chongjie Zhang, Yevgeniy Vorobeychik. "Learning Interpretable Policies in Hindsight-Observable POMDPs through Partially Supervised Reinforcement Learning," ICMLA 2024. [Link](https://arxiv.org/abs/2402.09290)
@@ -29,6 +27,7 @@ redirect_from:
 
 # Journal
 
+- Qingyang Wu\*, **Ying Xu**\*, Tingsong Xiao, Yunze Xiao, Yitong Li, Tianyang Wang, Yichi Zhang, Shanghai Zhong, Yuwei Zhang, Wei Lu, Yifan Yang. "Surveying Attitudinal Alignment Between Large Language Models Vs. Humans Towards 17 Sustainable Development Goals," WIREs Data Mining and Knowledge Discovery, 2024. [Link](https://arxiv.org/abs/2404.13885v1)
 - Lufei Huang, **Ying Xu**, Xiaohui Pan, Tao Zhang. "Green Technology Collaboration Network Analysis of China’s Transportation Sector: A Patent-Based Analysis," Scientific Programming, vol. 2021, Article ID 9961071, 12 pages, 2021. [Link](https://www.hindawi.com/journals/sp/2021/9961071/)
 - Zifeng Kou, **Ying Xu**, Sibo Yang. "The relationship between environmental pollution and FDI in Chinese provinces: Granger causality analysis perspective based on fixed effects panel data [J]." Journal of Shanghai Lixin University of Accounting and Finance, 2020, 32(03): 87-100.
 
