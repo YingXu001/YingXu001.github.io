@@ -18,6 +18,7 @@ redirect_from:
 
 # Conference
 
+- **[Oral Presentation, Abstract Accepted]** **Ying Xu**\*, Muhammad Ali\*, Gyujin Heo, Jigyasha Timsina, Menghan Liu, John Budde, Jen Gentsch, Carlos Cruchaga. "CSF and Plasma Protein Classifier for Predicting Disease-specific and Multiple Dementia Types (AD and PD) by Multiple AI-based Models," ADPD 2025.
 - **[Oral Presentation]** Michael Lanier, **Ying Xu**, Nathan Jacobs, Chongjie Zhang, Yevgeniy Vorobeychik. "Learning Interpretable Policies in Hindsight-Observable POMDPs through Partially Supervised Reinforcement Learning," ICMLA 2024. [Link](https://arxiv.org/abs/2402.09290)
 - **Ying Xu**, Yuejia Gu, Jiangpan Wang. "The College Student Credit Evaluation Based on Characteristic Data[M]." In: Cyberspace Data and Intelligence, and Cyber-Living, Syndrome, and Health. Springer, Singapore, 2020: 116-130. [Link](https://link.springer.com/chapter/10.1007/978-981-33-4336-8_10)
 
