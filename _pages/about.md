@@ -18,11 +18,11 @@ Hello! I'm Fiona Xu, currently in a Bioinformaticist role at Washington Universi
 
 ### 🔬 Research Interests
 - **AI for Med**
-- **Graph Neural Networks (GNNs)**
+- **Graph Neural Network (GNN)**
 - **Deep Reinforcement Learning (DRL)**
 - **Trustworthy AI**
 
-During my Master's, my research primarily revolved around GNNs, DRL, and Trustworthy AI, laying a strong foundation for future academic and research pursuits. Currently, I am exploring their interactions with medical applications.
+During my Master's, my research primarily revolved around GNN, DRL, and Trustworthy AI, laying a strong foundation for future academic and research pursuits. Currently, I am exploring their interactions with medical applications.
 
 ### 💼 Industry Experience
 - **Data Science Intern at RGA**: Gained hands-on experience with data-driven projects.
@@ -34,6 +34,12 @@ When I’m not working on research or coding, I enjoy:
 - 🥾 Hiking
 - 🏸 Playing badminton
 
+
+---
+
+### 🌍 Visitor Map
+<div id="clustrmaps-widget"></div>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tcUbabCIDQ9fS8N2YEGQsPRa0hYio1hJvDiUBPwjfEU&cl=ffffff&w=a"></script>
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
