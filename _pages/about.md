@@ -14,7 +14,7 @@ redirect_from:
 
 **Bioinformaticist at WashU Medical School \| AI for Medicine Enthusiast**
 
-Hello! I'm Fiona Xu, currently in a Bioinformaticist role at Washington University in St. Louis Medical School, working in [Professor Carlos Cruchaga's Lab](https://psychiatry.wustl.edu/people/carlos-cruchaga-phd/). I recently graduated with a Master's in Computer Science from WashU and am preparing for PhD studies focused on AI for Medicine (AI4Med).
+Hello! I'm Fiona Xu, currently in a Bioinformaticist role at Washington University in St. Louis Medical School, working in [Professor Carlos Cruchaga's Lab](https://psychiatry.wustl.edu/people/carlos-cruchaga-phd/). I graduated with a Master of Science in Computer Science from WashU and am preparing for PhD studies focused on AI for Medicine (AI4Med).
 
 ### 🔬 Research Interests
 - **AI for Med**
