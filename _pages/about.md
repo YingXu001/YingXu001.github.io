@@ -12,17 +12,18 @@ redirect_from:
 
 # Fiona Xu 👋
 
-**Bioinformaticist at WashU Medical School \| AI for Medicine Enthusiast**
+**Bioinformaticist and data scientist at WashU Medical School \| AI for Science Enthusiast**
 
-Hello! I'm Fiona Xu, currently in a Bioinformaticist role at Washington University in St. Louis Medical School, working in [Professor Carlos Cruchaga's Lab](https://psychiatry.wustl.edu/people/carlos-cruchaga-phd/). I graduated with a Master of Science in Computer Science from WashU and am preparing for PhD studies focused on AI for Medicine (AI4Med).
+Hello! I'm Fiona Xu, currently in a Bioinformaticist and data scientist role at Washington University in St. Louis Medical School, working in [Professor Carlos Cruchaga's Lab](https://psychiatry.wustl.edu/people/carlos-cruchaga-phd/). I graduated with a Master of Science in Computer Science from WashU and am preparing for PhD studies focused on AI for Science (AI4Sci).
 
 ### 🔬 Research Interests
-- **AI for Med**
+- **AI for Sci**
+- **Large Language Models (LLMs)**
 - **Graph Neural Network (GNN)**
 - **Deep Reinforcement Learning (DRL)**
 - **Trustworthy AI**
 
-During my Master's, my research primarily revolved around GNN, DRL, and Trustworthy AI, laying a strong foundation for future academic and research pursuits. Currently, I am exploring their interactions with medical applications.
+During my Master's, my research primarily revolved around GNN, DRL, LLMs and Trustworthy AI, laying a strong foundation for future academic and research pursuits. Currently, I am exploring their interactions with science applications.
 
 ### 💼 Industry Experience
 - **Data Science Intern at RGA**: Gained hands-on experience with data-driven projects.

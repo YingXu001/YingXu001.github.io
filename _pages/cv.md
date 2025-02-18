@@ -44,7 +44,7 @@ redirect_from:
 
 # Working Experience
 
-### 2024-2025: Bioinformaticist
+### 2024-2025: Bioinformaticist and Data Scientist
 - **Organization:** Washington University in St. Louis
 - **Supervisor:** [Professor Carlos Cruchaga](https://psychiatry.wustl.edu/people/carlos-cruchaga-phd/)
 
