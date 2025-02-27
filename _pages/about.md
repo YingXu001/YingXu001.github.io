@@ -12,25 +12,25 @@ redirect_from:
 
 # Fiona Xu 👋
 
-**Bioinformaticist and data scientist at WashU Medical School \| AI for Science Enthusiast**
+**Data scientist at WashU Medical School \| AI Enthusiast**
 
-Hello! I'm Fiona Xu, currently in a Bioinformaticist and data scientist role at Washington University in St. Louis Medical School, working in [Professor Carlos Cruchaga's Lab](https://psychiatry.wustl.edu/people/carlos-cruchaga-phd/). I graduated with a Master of Science in Computer Science from WashU.
+Hello! I'm Fiona Xu, currently in a Data Scientist role at Washington University in St. Louis Medical School, working in [Professor Carlos Cruchaga's Lab](https://psychiatry.wustl.edu/people/carlos-cruchaga-phd/). I graduated with a Master of Science in Computer Science from WashU.
 
 ### 🔬 Research Interests
-- **AI for Sci**
 - **Large Language Models (LLMs)**
 - **Graph Neural Network (GNN)**
 - **Deep Reinforcement Learning (DRL)**
 - **Trustworthy AI**
 
-During my Master's, my research primarily revolved around GNN, DRL, LLMs and Trustworthy AI, laying a strong foundation for future academic and research pursuits. Currently, I am exploring their interactions with science applications.
+During my Master's, my research primarily revolved around GNN, DRL, LLMs and Trustworthy AI, laying a strong foundation for future research pursuits. Currently, I am exploring their interactions with science applications.
 
 ### 💼 Industry Experience
 - **Data Science Intern at RGA**: Gained hands-on experience with data-driven projects.
 - **Data Development Engineer at Shuhe**: Contributed to impactful projects and honed technical skills in data development.
+- **Algorithm Intern at ADA Health**: Developed NLP based chat bot.
 
 ### 🌱 Outside of Tech
-When I’m not working on research or coding, I enjoy:
+When I’m not working, I enjoy:
 - 🎮 Gaming
 - 🥾 Hiking
 - 🏸 Playing badminton
