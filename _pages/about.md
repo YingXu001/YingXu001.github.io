@@ -12,17 +12,17 @@ redirect_from:
 
 # Fiona Xu 👋
 
-**Data scientist at WashU Medical School \| AI Enthusiast**
+**Data scientist \| AI Specialist**
 
-Hello! I'm Fiona Xu, currently in a Data Scientist role at Washington University in St. Louis Medical School, working in [Professor Carlos Cruchaga's Lab](https://psychiatry.wustl.edu/people/carlos-cruchaga-phd/). I graduated with a Master of Science in Computer Science from WashU.
+Hello! I'm Fiona Xu, I graduated with a Master of Science in Computer Science from WashU, and currently worked as Data Scientist at Washington University in St. Louis Medical School in [Professor Cruchaga's Lab](https://psychiatry.wustl.edu/people/carlos-cruchaga-phd/).
 
-### 🔬 Research Interests
+### 🔬 Research Domain
 - **Large Language Models (LLMs)**
 - **Graph Neural Network (GNN)**
 - **Deep Reinforcement Learning (DRL)**
 - **Trustworthy AI**
 
-During my Master's, my research primarily revolved around GNN, DRL, LLMs and Trustworthy AI, laying a strong foundation for future research pursuits. Currently, I am exploring their interactions with science applications.
+During my Master's and Bachelor's, my research primarily revolved around GNN, DRL, LLMs and Trustworthy AI, laying a strong foundation for future research pursuits. Currently, I am exploring their interactions with science applications.
 
 ### 💼 Industry Experience
 - **Data Science Intern at RGA**: Gained hands-on experience with data-driven projects.
