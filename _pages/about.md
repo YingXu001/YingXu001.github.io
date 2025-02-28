@@ -17,10 +17,10 @@ redirect_from:
 Hello! I'm Fiona Xu, I graduated with a Master of Science in Computer Science from WashU, and currently worked as Data Scientist at Washington University in St. Louis Medical School in [Professor Cruchaga's Lab](https://psychiatry.wustl.edu/people/carlos-cruchaga-phd/).
 
 ### 🔬 Research Domain
-- **Large Language Models (LLMs)**
-- **Graph Neural Network (GNN)**
-- **Deep Reinforcement Learning (DRL)**
-- **Trustworthy AI**
+- **Large Language Models (LLMs) -- DMKD 2024**
+- **Graph Neural Network (GNN) -- AAAI 2024**
+- **Deep Reinforcement Learning (DRL) -- ICMLA 2024**
+- **Trustworthy AI -- AAAI 2024**
 
 During my Master's and Bachelor's, my research primarily revolved around GNN, DRL, LLMs and Trustworthy AI, laying a strong foundation for future research pursuits. Currently, I am exploring their interactions with science applications.
 
