@@ -21,13 +21,14 @@ Hello! I'm Fiona Xu, I graduated with a Master of Science in Computer Science fr
 - **Graph Neural Network (GNN) -- AAAI 2024**
 - **Deep Reinforcement Learning (DRL) -- ICMLA 2024**
 - **Trustworthy AI -- AAAI 2024**
+- **AI for Med -- Nature Aging 2025**
 
 During my Master's and Bachelor's, my research primarily revolved around GNN, DRL, LLMs and Trustworthy AI, laying a strong foundation for future research pursuits. Currently, I am exploring their interactions with science applications.
 
 ### 💼 Industry Experience
-- **Data Science Intern at RGA**: Gained hands-on experience with data-driven projects.
-- **Data Development Engineer at Shuhe**: Contributed to impactful projects and honed technical skills in data development.
-- **Algorithm Intern at ADA Health**: Developed NLP based chat bot.
+- **Data Science Intern at RGA**
+- **Data Development Engineer at Shuhe**
+- **Algorithm Intern at ADA Health**
 
 ### 🌱 Outside of Tech
 When I’m not working, I enjoy:
