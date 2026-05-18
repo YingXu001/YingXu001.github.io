@@ -14,7 +14,7 @@ redirect_from:
 
 **AI Specialist \| Data Scientist \| Neurodegenerative Disease Research**
 
-Hello! I’m Ying Xu (Fiona), currently the Tech Co-founder of Andia Health with [Dr. Carlos Cruchaga](https://cruchagalab.wustl.edu/people/cruchaga-2/) and a Data Scientist at Washington University in St. Louis School of Medicine. I received my Master of Science in Computer Science from WashU and have more than eight years of experience in artificial intelligence.
+Hello! I’m Ying Xu (Fiona), currently the Tech Co-founder of [Andia Health](https://andia.health/) with [Dr. Carlos Cruchaga](https://cruchagalab.wustl.edu/people/cruchaga-2/) and a Data Scientist at Washington University in St. Louis School of Medicine. I received my Master of Science in Computer Science from WashU and have more than eight years of experience in artificial intelligence.
 
 ### 🔬 Research Domains
 
