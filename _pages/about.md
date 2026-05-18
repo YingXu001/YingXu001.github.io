@@ -12,23 +12,27 @@ redirect_from:
 
 # Fiona Xu 👋
 
-**Data scientist \| AI Specialist**
+**AI Specialist | Data Scientist | Neurodegenerative Disease Research**
 
-Hello! I'm Fiona Xu, I graduated with a Master of Science in Computer Science from WashU, and currently worked as Data Scientist at Washington University in St. Louis Medical School in [Professor Cruchaga's Lab](https://psychiatry.wustl.edu/people/carlos-cruchaga-phd/).
+Hello! I’m Ying Xu (Fiona), currently the Tech Co-founder of Andia Health with [Dr. Carlos Cruchaga](https://cruchagalab.wustl.edu/people/cruchaga-2/) and a Data Scientist at Washington University in St. Louis School of Medicine. I received my Master of Science in Computer Science from WashU and have more than eight years of experience in artificial intelligence.
 
-### 🔬 Research Domain
-- **Large Language Models (LLMs) -- DMKD 2024**
-- **Graph Neural Network (GNN) -- AAAI 2024**
-- **Deep Reinforcement Learning (DRL) -- ICMLA 2024**
-- **Trustworthy AI -- AAAI 2024**
-- **AI for Med -- Nature Aging 2025**
+### 🔬 Research Domains
 
-During my Master's and Bachelor's, my research primarily revolved around GNN, DRL, LLMs and Trustworthy AI, laying a strong foundation for future research pursuits. Currently, I am exploring their interactions with science applications.
+- **Large Language Models (LLMs)** — DMKD 2024
+- **Graph Neural Networks (GNNs)** — AAAI 2024
+- **Deep Reinforcement Learning (DRL)** — ICMLA 2024
+- **Trustworthy AI** — AAAI 2024
+- **AI for Medicine** — *Nature Medicine* 2025, *Nature Medicine* 2026, *Nature Aging* 2025
+
+Building on my earlier research in GNNs, DRL, LLMs, and trustworthy AI, I have expanded my work toward AI-driven biomedical discovery and translational medicine. My current research focuses on developing machine learning, deep learning, and multi-agent AI frameworks for neurodegenerative disease diagnosis, biomarker discovery, disease co-pathology analysis, and large-scale proteomics-based precision medicine.
+
 
 ### 💼 Industry Experience
-- **Data Science Intern at RGA**
-- **Data Development Engineer at Shuhe**
-- **Algorithm Intern at ADA Health**
+- **Co-founder, Andia Health**
+- **Data Science Intern, RGA**
+- **Data Development Engineer, Shuhe Technology**
+- **Algorithm Intern, Ada Health**
+
 
 ### 🌱 Outside of Tech
 When I’m not working, I enjoy:
