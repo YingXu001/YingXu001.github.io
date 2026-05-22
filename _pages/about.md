@@ -18,7 +18,7 @@ Hello! I’m Ying Xu (Fiona), currently the Tech Co-founder of [Andia Health](ht
 
 ### 🔬 Research Domains
 
-- **AI for Medicine** — *Nature Medicine* 2026, *Nature Medicine* 2025, *Nature Aging* 2025
+- **AI for Medicine** — [*Nature Medicine* 2026](https://www.nature.com/articles/s41591-026-04303-y), [*Nature Medicine* 2025](https://www.nature.com/articles/s41591-025-03833-1), [*Nature Aging* 2025](https://www.nature.com/articles/s43587-025-00872-8), [*Alzheimer's and Dementia* 2026](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.71420)
 - **Large Language Models (LLMs)** — DMKD 2024
 - **Graph Neural Networks (GNNs)** — AAAI 2024
 - **Deep Reinforcement Learning (DRL)** — ICMLA 2024
