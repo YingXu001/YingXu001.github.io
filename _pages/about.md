@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- # About me -->
 
-# Fiona Xu 👋
+# Ying Xu (Fiona)👋
 
 **AI Specialist \| Data Scientist \| Neurodegenerative Disease Research**
 
