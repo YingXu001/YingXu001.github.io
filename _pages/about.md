@@ -29,9 +29,8 @@ Building on my earlier research in GNNs, DRL, LLMs, and trustworthy AI, I have e
 
 
 ### 💼 Industry Experience
-- **Co-founder, Andia Health**
-- **Data Science Intern, RGA**
 - **Data Development Engineer, Shuhe Technology**
+- **Data Science Intern, RGA**
 - **Algorithm Intern, Ada Health**
 
 
