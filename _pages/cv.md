@@ -41,7 +41,8 @@ redirect_from:
 
 
 # Copyrights
-
+- Carlos Cruchaga, **Ying Xu**. High Accuracy Plasma Proteomic Classifier and Co-pathology Quantification for Neurodegenerative Diseases. No. T-021583
+- Carlos Cruchaga, **Ying Xu**, Daniel Western. High Accuracy Plasma Proteomic Classifier and Co-pathology Quantification for Neurodegenerative Diseases. No. T-021544
 - **Ying Xu**, Jiangpan Wang. "Personal Credit Rating System." No. 2020SR0126760
 - Jiangpan Wang, **Ying Xu**. "Contribution Allocation Algorithm in the Case of Cooperation with Multi Person and Multi Organizations." No. 2020SR0103989
 
