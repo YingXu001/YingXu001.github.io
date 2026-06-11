@@ -47,9 +47,6 @@ redirect_from:
 
 # Working Experience
 
-### 2025-Present: Co-founder
-- **Organization:** Andia Health
-
 ### 2024-Present: Bioinformaticist and Data Scientist
 - **Organization:** Washington University in St. Louis
 - **Supervisor:** [Professor Carlos Cruchaga](https://psychiatry.wustl.edu/people/carlos-cruchaga-phd/)

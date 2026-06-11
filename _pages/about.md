@@ -31,7 +31,7 @@ Building on my earlier research in GNNs, DRL, LLMs, and trustworthy AI, I have e
 ### 💼 Industry Experience
 - **Data Development Engineer, Shuhe Technology**
 - **Data Science Intern, RGA**
-- **Algorithm Intern, Ada Health**
+- **Algorithm Intern, ADA Health**
 
 
 ### 🌱 Outside of Tech
